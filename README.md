@@ -1,6 +1,6 @@
 # 👋 Hi there 
 
-I am Kaique Vilas Boa, a problem-solving and curious Software Developer eager to join projects that will enhance my programming skills. At the moment, I am seeking a job opportunity to gain hands-on experience with the Spring Boot framework and back-end development. 
+I am Kaique Vilas Boa, a problem-solving and curious Software Developer eager to join projects that will enhance my programming skills. At the moment, I am seeking a job opportunity to gain hands-on experience with back-end development. 
 
 Feel free to contact me on my LinkedIn for networking or if you have an opportunity where I can contribute!
 
